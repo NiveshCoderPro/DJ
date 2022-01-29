@@ -1,0 +1,17 @@
+body {
+    background-image: url("Music.jpg");
+    background-size:cover;
+    color:red;
+    font:bold;
+
+}
+
+.heading {
+    width:100%;
+    font-size:23px;
+}
+
+canvas {
+    border:10px white solid;
+    border-radius: 20%;
+}
